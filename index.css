@@ -104,30 +104,5 @@ body {
 
 #contacts {
     border-radius: 20px;
-    background-color: rgb(40 40 40);
-    margin: 20px;
-    padding: 10px;
-}
-
-#contact_information {
-    background-color:rgb(0, 6, 52) ;
-/*     height: 352px; */
-    border-radius: 20px;
-    box-shadow: 0 5px 5px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
-    transition: transform 0.2s ease-in-out;
-    margin: 10px;
-}
-#contact_information:hover {
-    transform: scale(1.05); /* Adjust the scale factor as needed */
-}
-
-#contact_me {
-    background-color: rgb(0, 6, 52);
-    border-radius: 20px;
-    box-shadow: 0 5px 5px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
-    transition: transform 0.2s ease-in-out;
-    margin: 10px;
-}
-#contact_me:hover {
-    transform: scale(1.05); /* Adjust the scale factor as needed */
+    background-color: rgb(6, 0, 51);
 }
